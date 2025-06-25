@@ -3,7 +3,7 @@ Hi 👋 My name is lx
 
 I like to do some coding, some content creation, gaming
 
-* 🖥️  See my portfolio at [copyrighttxt.xyz](http://copyrighttxt.xyz)
+* 🖥️  See my website @ [copyrighttxt.xyz](http://copyrighttxt.xyz)
 * ✉️  You can contact me at [copyrighttxt@proton.me](mailto:copyrighttxt@proton.me)
 
 <a href="https://www.github.com/copyrighttxt" target="_blank" rel="noreferrer"><img
